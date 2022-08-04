@@ -8,50 +8,41 @@ I'm Amir, a PhD candidate in Earth Science studying Geophysics (seismology). I'm
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardan.amir.h@gmail.com)
 
 ## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PyTroch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![sklear](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirMardan&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMardan&hide=jupyter%20notebook&layout=compact&count_private=true&theme=gruvbox" />
+<a href="https://amirmardan.github.io/" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirMardan&show_icons=true&count_private=true&theme=gruvbox" /></a>
+<a href="https://amirmardan.github.io/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMardan&hide=jupyter%20notebook&layout=compact&count_private=true&theme=gruvbox"/></a>
+<br>
+<hr>
+<br>
+<a href="https://amirmardan.github.io/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirMardan&theme=darcula"></a>
+<a href="https://amirmardan.github.io/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AmirMardan&theme=gruvbox"></a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirMardan&theme=gruvbox" /> 
-<a href="https://github.com/AmirMardan/PyFWI" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirMardan&repo=PyFWI&theme=gruvbox""></a>
-<a href="https://github.com/AmirMardan/ml_course" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirMardan&repo=ml_course&theme=gruvbox""></a>
+<br>
+<hr>
+<br>
+<a href="https://pyfwi.readthedocs.io/en/latest/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirMardan&repo=PyFWI&theme=gruvbox"></a>
+<a href="https://amirmardan.github.io/ml_course/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirMardan&repo=ml_course&theme=gruvbox"></a>
 
+<br><br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amir_unique12.mardan_unique12)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=amir_unique12.mardan_unique12"/>
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirMardan&theme=gruvbox" />  
-
-
-#![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-//![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-
-
-**AmirMardan/AmirMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+badges https://github.com/alexandresanlim/Badges4-README.md-Profile
