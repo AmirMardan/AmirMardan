@@ -28,11 +28,6 @@ I'm Amir, a PhD candidate in Earth Science studying Geophysics (seismology). I'm
 
 <a href="https://amirmardan.github.io/" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirMardan&show_icons=true&count_private=true&theme=gruvbox" /></a>
 <a href="https://amirmardan.github.io/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMardan&hide=jupyter%20notebook&layout=compact&count_private=true&theme=gruvbox"/></a>
-<br>
-<hr>
-<br>
-<a href="https://amirmardan.github.io/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirMardan&theme=darcula"></a>
-<a href="https://amirmardan.github.io/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AmirMardan&theme=gruvbox"></a>
 
 <br>
 <hr>
@@ -46,3 +41,10 @@ I'm Amir, a PhD candidate in Earth Science studying Geophysics (seismology). I'm
 
 <!--
 badges https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+<br>
+<hr>
+<br>
+
+<a href="https://amirmardan.github.io/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AmirMardan&theme=gruvbox"></a>
+<a href="https://amirmardan.github.io/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirMardan&theme=darcula"></a>
