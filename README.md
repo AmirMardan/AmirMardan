@@ -1,8 +1,14 @@
 ### Hi there 👋
-I'm Amir, a PhD candidate in Earth Science studying Geophysics (seismology). I'm based in Quebec City, Canada.
+I'm Amir, a postdoctoral researcher at Polytechnique Montréal working on applications of AI for processing and inversion of near-surface seismic data. I'm based in Quebec City, Canada.
 
-🔭 I’m currently working on velocity modelling using FWI and deep learning.
-- 📫 How to reach me: mardan.amir.h@gmail.com
+🔭 I’m currently working on
+- Automatic first-break picking,
+- velocity modelling using deep learning
+- velocity modelling using FWI.
+
+You can see my research at [my personal page](https://amirmardan.github.io/#research)
+
+📫 How to reach me: mardan.amir.h@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmardan/)](https://www.linkedin.com/in/amirmardan/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardan.amir.h@gmail.com)
