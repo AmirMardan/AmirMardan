@@ -13,6 +13,17 @@ You can see my research at [my personal page](https://amirmardan.github.io/#rese
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmardan/)](https://www.linkedin.com/in/amirmardan/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardan.amir.h@gmail.com)
 
+## My main public repositories
+|                 Repository                      |           Description                           |
+|   ----------------------                        |   ----------------------------------            |
+| [PyFWI](https://github.com/AmirMardan/PyFWI)    | A Python package for performing FWI and TL-FWI  |
+| [pinn_fwi](https://github.com/AmirMardan/PyFWI) | An implementation of PINN for performing FWI    |
+| [ml_course](https://github.com/AmirMardan/ml_course) | Prepared materials for my machine learning course at AUT  |
+| [labeler](https://github.com/AmirMardan/labeler) | A basic package for labeling photos for segmentation  |
+
+
+
+
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PyTroch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
