@@ -17,7 +17,7 @@ You can see my research at [my personal page](https://amirmardan.github.io/#rese
 |                 Repository                      |           Description                           |
 |   ----------------------                        |   ----------------------------------            |
 | [PyFWI](https://github.com/AmirMardan/PyFWI)    | A Python package for performing FWI and TL-FWI  |
-| [pinn_fwi](https://github.com/AmirMardan/PyFWI) | An implementation of PINN for performing FWI    |
+| [pinn_fwi](https://github.com/AmirMardan/pinn_fwi) | An implementation of PINN for performing FWI    |
 | [ml_course](https://github.com/AmirMardan/ml_course) | Prepared materials for my machine learning course at AUT  |
 | [labeler](https://github.com/AmirMardan/labeler) | A basic package for labeling photos for segmentation  |
 
