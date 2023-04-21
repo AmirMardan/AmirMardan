@@ -2,9 +2,13 @@
 I'm Amir, a postdoctoral researcher at Polytechnique Montréal working on applications of AI for processing and inversion of near-surface seismic data. I'm based in Quebec City, Canada.
 
 🔭 I’m currently working on
-- Automatic first-break picking,
-- velocity modelling using deep learning
+- processing near-surface seismic data using AI,
+- velocity modelling using deep learning,
 - velocity modelling using FWI.
+
+📚 These days, I'm mostly reading about
+- self-supervised learning,
+- uncertainty analysis and decision-making under uncertainty.
 
 You can see my research at [my personal page](https://amirmardan.github.io/#research)
 
@@ -19,7 +23,7 @@ You can see my research at [my personal page](https://amirmardan.github.io/#rese
 | [PyFWI](https://github.com/AmirMardan/PyFWI)    | A Python package for performing FWI and TL-FWI  |
 | [pinn_fwi](https://github.com/AmirMardan/pinn_fwi) | An implementation of PINN for performing FWI    |
 | [ml_course](https://github.com/AmirMardan/ml_course) | Prepared materials for my machine learning course at AUT  |
-| [labeler](https://github.com/AmirMardan/labeler) | A basic package for labeling photos for segmentation  |
+<!-- | [labeler](https://github.com/AmirMardan/labeler) | A basic package for labeling photos for segmentation  | -->
 
 
 
