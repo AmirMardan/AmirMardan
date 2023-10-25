@@ -23,6 +23,7 @@ You can see my research at [my personal page](https://amirmardan.github.io/#rese
 | [PyFWI](https://github.com/AmirMardan/PyFWI)    | A Python package for performing FWI and TL-FWI  |
 | [pinn_fwi](https://github.com/AmirMardan/pinn_fwi) | An implementation of PINN for performing FWI    |
 | [ml_course](https://github.com/AmirMardan/ml_course) | Prepared materials for my machine learning course at AUT  |
+|[first_break_picking](https://github.com/geo-stack/first_break_picking) | A Python package for performing automatic first-break picking|
 <!-- | [labeler](https://github.com/AmirMardan/labeler) | A basic package for labeling photos for segmentation  | -->
 
 
@@ -44,7 +45,7 @@ You can see my research at [my personal page](https://amirmardan.github.io/#rese
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+<!--
 ## ⚡ GitHub Stats
 
 <a href="https://amirmardan.github.io/" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirMardan&show_icons=true&count_private=true&theme=gruvbox" /></a>
@@ -57,7 +58,7 @@ You can see my research at [my personal page](https://amirmardan.github.io/#rese
 <a href="https://amirmardan.github.io/ml_course/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirMardan&repo=ml_course&theme=gruvbox"></a>
 
 <br><br>
-
+-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amir_unique12.mardan_unique12"/>
 
 <!--
